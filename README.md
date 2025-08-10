@@ -18,7 +18,7 @@ Somnifans is a platform that connects fans and sports events through digital tok
 
 📄 **Deployed Contracts:**  
 
-- 🪙 [HypeToken](https://shannon-explorer.somnia.network/address 0x092Ff7FA33eB500451F4b32295ADF9C6f0f35343)
+- 🪙 [HypeToken](https://shannon-explorer.somnia.network/address/0x092Ff7FA33eB500451F4b32295ADF9C6f0f35343)
 - 📡 [Oracle](https://shannon-explorer.somnia.network/address/0x0Be0D8CB83C120DD78312A8C713FcCf7Bf06A5d2)
 - ⚽ [Somnifans](https://shannon-explorer.somnia.network/address/0xDEDCDe27aC9398f8274Accf4C0Ff8bCCd79a3634)
 
